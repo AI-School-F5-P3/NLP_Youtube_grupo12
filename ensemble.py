@@ -78,3 +78,4 @@ def classify_comment(comment):
 print("\nEjemplos de clasificación:")
 print(classify_comment("You are an idiot!"))
 print(classify_comment("Have a nice day!"))
+print(classify_comment("amazing!"))
