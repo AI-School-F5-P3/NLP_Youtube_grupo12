@@ -1,0 +1,25 @@
+#Entorno
+venv/
+
+# Ignorar dependencias de Node.js
+frontend/node_modules/
+
+# Ignorar compilaciones
+frontend/build/
+
+# Ignorar configuraciones de entorno
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.production.local
+
+# Ignorar logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Ignorar imágenes o recursos grandes (si es necesario)
+frontend/public/images/
+
+# Ignorar archivos del sistema operativo
+frontend/.DS_Store
