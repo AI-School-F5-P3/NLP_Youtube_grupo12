@@ -1,0 +1,38 @@
+# Ignorar entornos virtuales
+venv/
+.env/
+
+# Ignorar modelos y archivos pesados
+backend/app/ml_models/transformers/
+
+# Ignorar migraciones generadas automáticamente
+backend/alembic/versions/
+
+# Ignorar logs
+*.log
+*.out
+*.err
+
+# Ignorar datos temporales
+*.sqlite3
+*.db
+tmp/
+cache/
+
+# Ignorar configuraciones específicas del editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignorar compilaciones o artefactos
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar Git internamente
+.git/
