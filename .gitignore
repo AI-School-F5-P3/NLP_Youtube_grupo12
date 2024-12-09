@@ -20,6 +20,7 @@ frontend/yarn-error.log*
 
 # Ignorar imágenes o recursos grandes (si es necesario)
 frontend/public/images/
+# imagenes que se incluyen en el Carousel, Sidebar y demas funciones de la aplicación
 
 # Ignorar archivos del sistema operativo
 frontend/.DS_Store
