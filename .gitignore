@@ -1,2 +1,5 @@
 glove.6B.100d.word2vec.txt
 glove.6B.100d.txt
+modelo_toxicidad/
+final_pipeline_glove_optimnized.joblib
+nn_model.joblib
